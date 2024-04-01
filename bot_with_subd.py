@@ -46,5 +46,5 @@ async def on_ready():
     await bot.tree.sync()
 
 # Запускаем бота
-bot.run('MTE1MjYyMzQ4MzYxNzAyMjAxNA.GmodSm.3DuWqgE5O6jrmN8oICyHbIrarALWu2m6GMee8I')
+bot.run('')
 
